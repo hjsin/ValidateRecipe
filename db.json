@@ -1,0 +1,20 @@
+{
+  "url": "/mespmmwip/services/external/lot/validateRecipe",
+  "code": null,
+  "resultObjVO": {
+    "stationNo": "SMT-01",
+    "machineSn": "EQP-SMT-01",
+    "siteId ": "23",
+    "sn": "L201900001",
+    " tranSn": "GZ20190001",
+    "taskNo": "DRZRD9B5182",
+    "partNo": "02352FQG",
+    "partRev": "MES001",
+    "softwarePath": "192.1680.10.100//D/recipe",
+    "recipeName": "RECIPE01",
+    "recipeVersion": "V0001",
+    "recipeList": null
+  },
+  "status": "200",
+  "message": "SUCCESS"
+}
