@@ -1,0 +1,34 @@
+{
+    "url": "/services/external/query/getSnInfo", 
+	"code": "messpw.exception.code.A0052511", 
+	"message": "取得Sn清单成功! ", 
+	"status": "200",
+	"resultObjVO": {
+		"machineSn": "MTF_01_01_00", 
+		"rootLot" : "GZKG2019011001",
+		"traySn": "GZKG201901PBKA2503538","sn": "","taskNo": "DRZRD9B5182","partNo": "02352FQG","partRev": "MES01",
+		"wipCount": 6,
+		"wipList": [
+		{
+		"sn": "2102352FQGPBKB0532920",
+		"sLot": "1",
+		"wipGrd": "OK"
+		},
+		{
+		"sn": "2456552ABSDFS04575463",
+		"sLot": "1",
+		"wipGrd": "NG"
+		},
+		{
+		"sn": "5856745TUTYIRY2341142",
+		"sLot": "1",
+		"wipGrd": "OK"
+		},
+		{
+		"sn": "6967977UTUYTYR3464464",
+		"sLot": "1",
+		"wipGrd": "NA"
+		}
+		]
+	}
+}
